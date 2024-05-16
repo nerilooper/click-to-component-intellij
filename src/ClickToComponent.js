@@ -1,6 +1,6 @@
 /**
- * @typedef {import('./types').ClickToComponentProps} Props
- * @typedef {import('./types').Coords} Coords
+ * @typedef {import('./types.js').ClickToComponentProps} Props
+ * @typedef {import('./types.js').Coords} Coords
  */
 
 import { FloatingPortal } from '@floating-ui/react-dom-interactions'
