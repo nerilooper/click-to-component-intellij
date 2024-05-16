@@ -1,1 +1,0 @@
-../packages/click-to-react-component/README.md
